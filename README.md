@@ -1,5 +1,5 @@
 ### 个人简历
-![fea35008-8f4b-4d6b-990a-176575641736.png](https://web-tail01.oss-cn-beijing.aliyuncs.com/fea35008-8f4b-4d6b-990a-176575641736.png)
+![fea35008-8f4b-4d6b-990a-176575641736.png](https://github.com/lxy11150/confidential/blob/master/%E7%A7%8B%E5%88%86%E7%B4%A0%E6%9D%90%E4%B8%83.jpeg)
 - **姓名**：lxy
 - **性别**：男
 - **出生年月**：2003.01.11
@@ -18,3 +18,6 @@
 
 ---
 
+| 竞赛 | 获奖情况 |
+| ------ | ------ |
+| 无 | 无 |
